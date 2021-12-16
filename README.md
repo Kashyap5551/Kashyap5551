@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kashyap
 - 👀 I’m interested in Entrepreneurship, Exploring new places and Videogames.
-- 🌱 I’m currently strengthen my React skills and learnign redux.
+- 🌱 I’m currently strengthen my React skills and learning redux.
 - 💞️ I’m looking to collaborate on management systems.
 
 <!---
