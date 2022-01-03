@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Remix and strenthening my backend knowledge
 - 💞️ I’m looking to collaborate with others on management systems
 - 🥅 My 2022 Goals are: Contribute to Open source projects and Land an interesting Internship
-- 👀 Fun facts about me: I love to cook new dishes, Exploring new places and Videogames
+- 👀 Fun facts about me: I love to cook, Exploring places and Videogames
 
 ### Connect with me:
 
@@ -20,7 +20,8 @@
 <img align="left" alt="React.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg"/>
+<img align="left" alt="Java" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"/>
+<img align="left" alt="Typescript" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png"/>
 <img align="left" alt="Gatsby" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Next.js" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg"/>
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -42,3 +43,6 @@
 
 <br />
 <br />
+
+[website]: https://kashyap5551.github.io
+[linkedin]: https://www.linkedin.com/in/kashyap-patel-65045315b/
