@@ -1,7 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kashyap - [<img alt="kash5551.github.io" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 
-<br />
-
 ## I’m an Adventurous, Driven and Ambitious Software Developer
 
 - 🔭 I’m currently working on building a business facing CRM software
@@ -10,11 +8,8 @@
 - 🥅 My 2022 Goals are: Contribute to Open source projects and Land an interesting Internship
 - 👀 Fun facts about me: I love to cook, Exploring places and Videogames
 
-<br />
-
 ## Connect with me:
 
-[<img align="left" alt="kash5551.github.io" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -52,6 +47,8 @@
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 
 <br />
+<br />
+<br />
 
 ## Services:
 
@@ -61,6 +58,8 @@
 <img align="left" alt="Netlify" src=" 	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="left" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
+<br />
+<br />
 <br />
 
 ## Tools:
