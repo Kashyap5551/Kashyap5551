@@ -6,7 +6,7 @@
 - 🌱 I’m learning Remix and strenthening my backend knowledge
 - 💞️ I’m looking to collaborate with others on management systems
 - 🥅 My 2022 Goals are: Contribute to Open source projects and Land an interesting Internship
-- 👀 Fun facts about me: I love to cook, Exploring places and Videogames
+- 👀 Fun facts about me: I love to cook, explore places and play videogames
 
 ## Connect with me:
 
