@@ -4,7 +4,7 @@
 
 ## I’m an Adventurous, Driven and Ambitious Software Developer
 
-- 🔭 I,m currently working on building a business facing CRM software
+- 🔭 I’m currently working on building a business facing CRM software
 - 🌱 I’m currently learning Remix and strenthening my backend knowledge
 - 💞️ I’m looking to collaborate with others on management systems
 - 🥅 My 2022 Goals are: Contribute to Open source projects and Land an interesting Internship
