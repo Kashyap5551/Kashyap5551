@@ -33,8 +33,10 @@
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <br />
+<br />
+<br />
 
-## Frameworks/Libraries
+## Frameworks/Libraries:
 
 <img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -42,7 +44,7 @@
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-<img align="left" alt="Next.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg"/>
+<img align="left" alt="Next.js" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg"/>
 <img align="left" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="left" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -72,6 +74,8 @@
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
 
 <br />
+
+## Stats:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kashyap5551&show_icons=true)
 
