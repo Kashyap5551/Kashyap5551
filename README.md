@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kashyap - [<img alt="kash5551.github.io" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">, I'm Kashyap - [<img alt="kash5551.github.io" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 
 ## I’m an Adventurous, Driven and Ambitious Software Developer
 
