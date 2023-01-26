@@ -2,10 +2,10 @@
 
 ## I’m an Adventurous, Driven and Ambitious Software Developer
 
-- 🔭 I’m currently building a business facing CRM software
-- 🌱 I’m learning Remix and strenthening my backend knowledge
-- 💞️ I’m looking to collaborate with others on management systems
-- 🥅 My 2022 Goals are: Contribute to Open source projects and Land an interesting Internship
+- 🔭 I’m currently upgrading my skillset in distributed computing. In technologies such as Apache kafka, Redis, Cassandra, Elasticsearch and gRPC
+- 🌱 I’m constantly learning and strenthening my backend knowledge
+- 💞️ I’m looking to collaborate with others on distributed systems and microservices
+- 🥅 My 2023 Goals are: Contribute to Open source projects and Land an interesting FTE offer
 - 👀 Fun facts about me: I love to cook, explore places and play videogames
 
 ## Connect with me:
