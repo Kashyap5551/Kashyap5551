@@ -2,7 +2,7 @@
 
 ## I’m an Adventurous, Driven and Ambitious Software Developer
 
-- 🔭 I’m currently upgrading my skillset in distributed computing. In technologies such as Apache kafka, Redis, Cassandra, Elasticsearch and gRPC
+- 🔭 I’m currently expanding my skillset in distributed computing.
 - 🌱 I’m constantly learning and strengthening my backend knowledge
 - 💞️ I’m looking to collaborate with others on distributed systems and microservices
 - 👀 Fun facts about me: I love to cook, explore places and play videogames
