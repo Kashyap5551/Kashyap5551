@@ -2,10 +2,10 @@
 
 ## I’m an Adventurous, Driven and Ambitious Software Developer
 
-- 🔭 I’m currently expanding my skillset in distributed computing.
-- 🌱 I’m constantly learning and strengthening my backend knowledge
-- 💞️ I’m looking to collaborate with others on distributed systems and microservices
-- 👀 Fun facts about me: I love to cook, explore places and play videogames
+- 🔭 I’m currently expanding my skillset by reading "The Red Book" AKA DDIA (Designing Data-Intensive Aplications).
+- 🌱 I’m constantly learning and strengthening my knowledge by taking certifications; So far I have the AWS SAA, AWS CLF and plan on taking the AWS SA Pro
+- 💞️ I’m looking to collaborate with others on Event Driven Systems or IaaS platforms
+- 👀 Fun facts about me: I love to cook, explore places and play videogames (Currently playing OW2) 
 
 ## Connect with me:
 
